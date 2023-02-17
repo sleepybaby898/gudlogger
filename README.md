@@ -4,6 +4,9 @@ a nice and simple logging library for python
 
 not very optimised, but the log messages r pretty so
 
+## preview
+![image of gudlogger output](/static/scrot1.png)
+
 ## installation
 
 right now its not on pip, so you need to download gudlogger.py and put it in your project.
