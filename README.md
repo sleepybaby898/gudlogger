@@ -7,7 +7,6 @@ not very optimised, but the log messages r pretty so
 ## installation
 
 right now its not on pip, so you need to download gudlogger.py and put it in your project.
-
 next, you can import it
 
 ## usage
