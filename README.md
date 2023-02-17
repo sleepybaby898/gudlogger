@@ -2,7 +2,7 @@
 
 a nice and simple logging library for python
 
-full of trashy code, might fix
+not very optimised, but the log messages r pretty so
 
 ## installation
 
