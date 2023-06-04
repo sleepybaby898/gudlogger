@@ -20,7 +20,7 @@ import gudlogger
 
 logger = gudlogger()
 
-logger.info("this sucks ass")
+logger.info("this sucks")
 ```
 ### more advanced example
 ```py
